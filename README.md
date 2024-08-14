@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many more people
 - 📫 How to reach me, FB: Ashley Bhel Galleto
 - 😄 Pronouns: she her
-- ⚡ Fun fact: I have a hard time learning CS
+- ⚡ Fun fact: I hate coding!
 
 <!---
 AshleyBhelRGalleto/AshleyBhelRGalleto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
